@@ -18,5 +18,6 @@ hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git! master hello
+避险简朴，good NB
 hello atguigu! hello git! hot-fix text
 hello github
